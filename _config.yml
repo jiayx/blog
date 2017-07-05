@@ -65,6 +65,12 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: next
 
+# 去空白
+neat_enable: true
+neat_html:
+  enable: true
+  exclude:
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
